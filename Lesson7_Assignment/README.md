@@ -10,7 +10,7 @@ July 27, 2017
 Dana Lebofsky
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment teaches students how to build an application that displays elements of a recipe in a certain manner when the user clicks on the associated headers. This assignment utilized jQuery and Document Object Model (DOM) traversal statements.
 
 ### View Project:
 https://danalebofsky.github.io/lesson7_jquery/
