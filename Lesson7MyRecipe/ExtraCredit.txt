@@ -1,0 +1,7 @@
+In this file, some features I have added to enhance the Recipe Display Application for my chocolate chip cookie recipe include:
+    
+    1) A display() function that is carried out when the user clicks either of the h3 elements
+    2) The next() method which traverses the DOM tree to the element following the selected element, this case being the ingredients or instructions list
+    3) The fadeIn() method which is used to fade in a hidden element. I used the value "fast" to control the speed the element is faded in
+    4) I changed the background color of the <body> section to pink and centered the h2 heading "Chocolate Chip Cookies"
+    
